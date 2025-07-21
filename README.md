@@ -4,7 +4,7 @@ A browser extension and userscript that enhances your Hypixel Forums experience 
 
 ## Features
 
-- **Hide "Show Ignored" Buttons**: Removes the "Show ignored content" buttons to prevent you from impulsively clicking it
+- **Hide "Show Ignored" Buttons**: Removes the "Show ignored content" buttons to prevent you from impulsively clicking them
 - **Hide Quoted Content**: Optional setting to hide posts that contain quotes from ignored members
 - **Multi-Platform**: Available as Chrome extension, ~~Firefox extension~~ (broken), and userscript
 
