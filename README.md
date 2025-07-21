@@ -40,19 +40,6 @@ Works with Tampermonkey, Greasemonkey, or Violentmonkey:
 
 **Settings**: Click the extension icon to access settings
 
-### ~~🟠 Firefox Extension~~ (Currently Broken)
-
-**⚠️ Note**: The Firefox extension is currently not working properly. Please use the userscript method for Firefox instead.
-
-1. Download or clone this repository
-2. Open Firefox and navigate to `about:debugging`
-3. Click **"This Firefox"** in the sidebar
-4. Click **"Load Temporary Add-on"**
-5. Navigate to the `firefox` folder and select `manifest.json`
-6. The extension will be loaded temporarily
-
-**Settings**: Click the extension icon to access settings
-
 ## Usage
 
 ### Basic Functionality
