@@ -1,4 +1,4 @@
-# Hide Ignored Member Replies - Hypixel Forums
+# Hide Ignored Members Posts - Hypixel Forums
 
 A browser extension and userscript that enhances your Hypixel Forums experience by hiding posts of ignored members even more.
 
