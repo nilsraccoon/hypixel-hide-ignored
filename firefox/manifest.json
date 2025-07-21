@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+  "name": "Hide Ignored Member Replies - Hypixel Forums",
+  "description": "Hides posts and buttons related to ignored members on the Hypixel forums",
+  "version": "1.1",
+  "permissions": [
+    "storage",
+    "activeTab",
+    "https://hypixel.net/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://hypixel.net/*"],
+      "js": ["index.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_title": "Hide Ignored Member Replies Settings"
+  },
+  "web_accessible_resources": [
+    "popup.html"
+  ]
+}
