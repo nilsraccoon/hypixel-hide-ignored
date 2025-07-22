@@ -24,7 +24,7 @@ Works with Tampermonkey, Greasemonkey, or Violentmonkey:
 2. Install the userscript:
    - Open the `userscript/hypixel-hide-ignored.user.js` file
    - Copy the contents
-   - Create a new script in your userscript manager
+   - Create a new script in your userscript manager on the extension you just installed
    - Paste the code and save
 
 **Settings**: Right-click on the userscript manager icon → "Hide Ignored Member Replies - Hypixel Forums" → "Toggle: Hide posts with quotes from ignored members"
